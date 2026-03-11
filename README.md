@@ -17,12 +17,23 @@
 ###   ●	Geometry instruments.
 
 ## PROCEDURE:
-###  Configuration diagram
-###  Assume scale 1:10
-###  1. Draw a horizontal line and locate C 
-###  2. At C, draw CB of length 20 mm inclined at 1200 
-###  3. With B as centre, BA 60mm, draw an arc to cut the horizontal at A. Join BA to complete the configuration diagram 
-
+## Draw the reference line
+## Draw a straight horizontal line using a ruler.
+## Mark a point C on this horizontal line.
+## This line will act as the base reference line for the construction.
+##Draw line CB
+## At point C, use a protractor to measure an angle of 120° from the horizontal line.
+## Draw a straight line at this angle.
+## On this inclined line, measure 20 mm from point C and mark the point B.
+## Join C to B to form the line CB.
+## Locate point A using an arc
+## Place the compass needle at point B.
+## Set the compass radius to 60 mm (according to the given scale).
+## Draw an arc that intersects the horizontal reference line.
+## Mark the point of intersection as A.
+## Complete the configuration
+## Draw a straight line connecting B and A.
+## The triangle ABC now forms the required configuration diagram.
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/0e905314-0fc5-4e13-a513-67c95aced702)
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/590ca17d-5a31-427c-816d-975478542bcd)
