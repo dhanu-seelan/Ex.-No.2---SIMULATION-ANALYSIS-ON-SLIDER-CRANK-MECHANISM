@@ -46,6 +46,8 @@
 ###  3. At b, draw a projection line perpendicular to AB from the configuration diagram 
 ###  4. Draw a horizontal at c, meeting the projection from b at a. join ca to complete the velocity diagram.
 
+<img width="536" height="300" alt="EX-02 Pictures" src="https://github.com/user-attachments/assets/1bad83f8-e011-48d1-b4a9-8810adc40d1f" />
+
 
 ## Output
 <img width="512" height="408" alt="EX-02 Simulation" src="https://github.com/user-attachments/assets/f9f8d9b9-71d2-47b7-a401-357a93f1f976" />
