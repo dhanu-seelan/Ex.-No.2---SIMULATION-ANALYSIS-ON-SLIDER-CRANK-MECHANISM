@@ -56,8 +56,9 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-<img width="510" height="434" alt="EX-02 Simulation" src="https://github.com/user-attachments/assets/d6032028-4974-4eee-b5e6-93996e6777aa" />
-<img width="484" height="214" alt="EX-02 Variables" src="https://github.com/user-attachments/assets/395855af-60bc-4f4b-bacb-2ea2997088e3" />
+<img width="512" height="408" alt="EX-02 Simulation" src="https://github.com/user-attachments/assets/f9f8d9b9-71d2-47b7-a401-357a93f1f976" />
+<img width="484" height="214" alt="EX-02 Variables" src="https://github.com/user-attachments/assets/ddcc0b8b-1cb8-46f4-9e23-b88f3e2e372c" />
+
 
 
 ### Name:Danaseelan G
